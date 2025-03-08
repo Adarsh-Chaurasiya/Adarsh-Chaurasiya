@@ -1,11 +1,9 @@
-<h1 align="center">Hello 👋🏻 I'm Adarsh Chaurasiya</h1>
+<h1 align="center">Hello I'm Adarsh Chaurasiya</h1>
 <h3 align="center">A passionate frontend developer India</h3>
-
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/XpHB6JbzpV1VEw8e8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-chaurasiya&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-chaurasiya" /> </p>
 
-- I’m currently learning **Java**
+- I’m currently learning **Java & Html **
 
 - My LinkedIn profile [https://www.linkedin.com/in/adarsh-chaurasiya-46b60428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/adarsh-chaurasiya-46b60428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
